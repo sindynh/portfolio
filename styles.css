@@ -7,7 +7,7 @@ body{
 }
 
 .intro{
-  	border: 2px solid double #80675C; 
+  	border: 2px double #80675C; 
 	padding: 3px;
      margin: 10px 10px 10px 10px;
 	font-family: 'DM Serif Display', serif;
