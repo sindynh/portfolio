@@ -12,3 +12,7 @@ body{
      margin: 10px 10px 10px 10px;
 	font-family: 'DM Serif Display', serif;
 }
+
+.ol{
+list-style-type:none
+}
